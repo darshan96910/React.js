@@ -1,0 +1,20 @@
+{
+  "Users": [
+    {
+      "name": "darshan",
+      "id": 1
+    },
+    {
+      "name": "darshan1",
+      "salary": "87688",
+      "company": "bdcjdbcjk",
+      "id": 2
+    },
+    {
+      "name": "suresh",
+      "salary": "98765",
+      "company": "iuykbcs",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+node -v
+node --version
+npx create-react-app project
+npm start
+npm install axios
+npm install react-router-dom
+npm react-router-dom
+npm install json-server
+npx json-server Backend/db.json --watch port 8000
+npm audit
